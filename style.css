@@ -1,9 +1,10 @@
 .product {
-  width: 305;
+  width: 320;
 
   float: left;
 }
 
 .arng {
-   margin-left: 5%;
+   margin-left: 1%;
+   margin-right: 1%;
 }
